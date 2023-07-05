@@ -1,3 +1,28 @@
+## 💼 __PROJECT__ __NAME__ 💼 __:__ __FIRST__ __REACT__ __APP__ 
+---------------------------------------------------------------------------------------------------------------
+### 📽️ __LIVE__ __DEMO__ __LINK__ 📽️ __:__ "effulgent-valkyrie-abd76c.netlify.app"
+---------------------------------------------------------------------------------------------------------------
+### 📄 __PROJECT__ DESCRIPTION 📄 __:__ This is Front End Project to display a Dashboard website and it comprises all React Js concepts
+---------------------------------------------------------------------------------------------------------------
+### ⚙️ __REALTIME__ USAGE ⚙️ __:__ React Learners, E-commerce , Ed-tech
+---------------------------------------------------------------------------------------------------------------
+### 💻 __TECHNICAL__ SPECIFICATIONS 💻 __:__
+* html5
+* css3
+* reactjs 
+* redux 
+* hooks 
+* react-router 
+* asynchronous 
+* react-router-dom 
+* yup 
+* formik 
+* context-api
+---------------------------------------------------------------------------------------------------------------
+### 📷 __IMAGES__ 📷 __:__
+---------------------------------------------------------------------------------------------------------------
+### If you like it remember to give repo a star ⭐.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -47,7 +72,7 @@ To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splittin)
 
 ### Analyzing the Bundle Size
 
